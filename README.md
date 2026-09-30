@@ -23,4 +23,8 @@ Os projetos relacionados à UFPI são **demonstrações independentes** e não r
 
 Procuro deixar cada projeto fácil de entender, manter e atualizar: código organizado, documentação objetiva, versionamento no Git e um caminho claro entre desenvolvimento e publicação.
 
+## Vamos conversar
+
+Se você tem um projeto em mente, [fale comigo pelo WhatsApp](https://wa.me/5586999538666). Conte o que precisa construir ou melhorar para que eu possa entender o contexto e propor um caminho.
+
 **Gabriel Ribeiro · Zenvory**
