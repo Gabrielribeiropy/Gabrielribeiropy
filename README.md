@@ -27,4 +27,4 @@ Procuro deixar cada projeto fácil de entender, manter e atualizar: código orga
 
 Se você tem um projeto em mente, [fale comigo pelo WhatsApp](https://wa.me/5586999538666). Conte o que precisa construir ou melhorar para que eu possa entender o contexto e propor um caminho.
 
-**Gabriel Ribeiro · Zenvory**
+**Gabriel Ribeiro · Averotech**
