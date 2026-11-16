@@ -1,30 +1,53 @@
 # Gabriel Ribeiro
 
-Desenvolvo sites, aplicativos e sistemas digitais pela **Zenvory**. Meu trabalho reúne interface, implementação e publicação para transformar uma ideia em um produto que pode ser usado e evoluído.
+**Desenvolvedor de software · Web, mobile e backend · Fundador da Averotech**
 
-## O que faço
+[Português](#português) · [English](#english)
 
-- Sites e experiências web responsivas.
-- Aplicativos e sistemas com interfaces para usuários e administradores.
-- Automações e integrações para organizar processos e informações.
+## Português
 
-Trabalho com tecnologias como **TypeScript, React, Next.js, Expo, Node.js e GitHub Actions**, escolhendo a estrutura de acordo com cada projeto.
+Desenvolvo produtos digitais da interface à publicação. Trabalho com aplicações web responsivas, experiências mobile, APIs e ferramentas para operação. Atuo de forma independente pela **Averotech** e busco oportunidades de desenvolvimento com equipes no Brasil e em outros países.
 
-## Trabalhos para conhecer
+### Projeto em destaque
 
-| Projeto | O que você pode ver | Acesso |
-| --- | --- | --- |
-| **Portfólio UFPI Digital** | Quatro demonstrações de aplicativo, portal e sistemas para serviços acadêmicos. | [Explorar as demonstrações](https://gabrielribeiropy.github.io/portfolio-ufpi/) · [Ver o código público](https://github.com/Gabrielribeiropy/portfolio-ufpi) |
-| **CCN Mobile** | Versão web do aplicativo, com conteúdo e serviços organizados para celular. | [Abrir a versão web](https://ccn-mobile-vercel.vercel.app/) |
+**[CCN Digital — painel administrativo e API](https://github.com/Gabrielribeiropy/CCN-Digital-Migracao-UFPI)**
 
-Os projetos relacionados à UFPI são **demonstrações independentes** e não representam produtos oficiais da universidade. O código de outros trabalhos permanece em repositórios privados; posso apresentar o processo e as interfaces adequados a cada conversa.
+Backend em Node.js e painel web preparados para migração a um servidor Debian. O repositório inclui esquema PostgreSQL, modelos de implantação, documentação operacional e testes automatizados. Este é o projeto do CCN que apresento atualmente; os demais estão em revisão.
 
-## Como trabalho
+**Para conhecer o projeto:** [arquitetura e segurança](https://github.com/Gabrielribeiropy/CCN-Digital-Migracao-UFPI/blob/main/docs/ARQUITETURA-E-SEGURANCA.md) · [guia de implantação](https://github.com/Gabrielribeiropy/CCN-Digital-Migracao-UFPI/tree/main/deploy/debian) · [código](https://github.com/Gabrielribeiropy/CCN-Digital-Migracao-UFPI)
 
-Procuro deixar cada projeto fácil de entender, manter e atualizar: código organizado, documentação objetiva, versionamento no Git e um caminho claro entre desenvolvimento e publicação.
+### Tecnologias
 
-## Vamos conversar
+- **Linguagens:** TypeScript, JavaScript, SQL
+- **Aplicações:** React, Next.js, Expo, Node.js
+- **Entrega:** PostgreSQL, GitHub Actions, implantação em Linux
 
-Se você tem um projeto em mente, [fale comigo pelo WhatsApp](https://wa.me/5586999538666). Conte o que precisa construir ou melhorar para que eu possa entender o contexto e propor um caminho.
+Valorizo interfaces claras, código fácil de manter, documentação útil e um caminho confiável entre desenvolvimento e entrega. Outros trabalhos permanecem privados enquanto estão em revisão ou envolvem contexto específico de clientes.
 
-**Gabriel Ribeiro · Averotech**
+**Contato:** [converse comigo pelo WhatsApp](https://wa.me/5586999538666) sobre oportunidades de desenvolvimento ou projetos.
+
+---
+
+## English
+
+**Software developer · Web, mobile and backend systems · Founder of Averotech**
+
+I build digital products from interface to deployment. My work spans responsive web applications, mobile experiences, APIs and operational tools. I work independently through **Averotech** and am interested in software development opportunities with teams in Brazil and abroad.
+
+### Featured project
+
+**[CCN Digital — administration panel and API](https://github.com/Gabrielribeiropy/CCN-Digital-Migracao-UFPI)**
+
+A Node.js backend and browser based administration panel prepared for migration to a Debian server. The repository includes a PostgreSQL schema, deployment templates, operational documentation and automated tests. This is the CCN codebase I currently present; the other CCN projects are under revision.
+
+**Explore:** [architecture and security](https://github.com/Gabrielribeiropy/CCN-Digital-Migracao-UFPI/blob/main/docs/ARQUITETURA-E-SEGURANCA.md) · [deployment guide](https://github.com/Gabrielribeiropy/CCN-Digital-Migracao-UFPI/tree/main/deploy/debian) · [source code](https://github.com/Gabrielribeiropy/CCN-Digital-Migracao-UFPI)
+
+### Technology
+
+- **Languages:** TypeScript, JavaScript, SQL
+- **Applications:** React, Next.js, Expo, Node.js
+- **Delivery:** PostgreSQL, GitHub Actions, Linux deployment
+
+I care about clear interfaces, maintainable code, practical documentation and a reliable path from development to release. Other work stays private while it is under revision or involves client specific context.
+
+**Contact:** [message me on WhatsApp](https://wa.me/5586999538666) about software development opportunities or projects.
