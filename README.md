@@ -10,9 +10,11 @@ Desenvolvo produtos digitais da interface à publicação. Trabalho com aplicaç
 
 ### Projetos em destaque
 
-**[CCN Digital — vitrine pública](https://github.com/Gabrielribeiropy/ccn-digital-showcase)** — demonstração independente com dados fictícios, criada para mostrar a interface e a organização de conteúdo sem acesso ao sistema real. [Experimentar a demonstração](https://gabrielribeiropy.github.io/ccn-digital-showcase/). O projeto de migração institucional continua separado; os outros projetos do CCN permanecem em revisão.
+**[CCN Digital — vitrine pública](https://github.com/Gabrielribeiropy/ccn-digital-showcase)** — demonstração independente com dados fictícios, criada para mostrar a interface e a organização de conteúdo sem acesso ao sistema real. [Experimentar a demonstração](https://gabrielribeiropy.github.io/ccn-digital-showcase/). O projeto de migração institucional continua separado.
 
-**[Checklist de lotes OBMEP](https://github.com/Gabrielribeiropy/OBMEP-Checklist-Slots)** — projeto independente e não oficial que organiza as etapas de processamento de lotes em um painel. Reúne confirmações em sequência, filtros e histórico. O código pode ser executado com um banco PostgreSQL próprio; não há demonstração pública validada.
+**[UFPI Digital — projetos demonstrativos](https://github.com/Gabrielribeiropy/portfolio-ufpi)** — portfólio independente com três experiências para o CCN, incluindo a versão web atual do aplicativo CCN Mobile. [Explorar os projetos](https://gabrielribeiropy.github.io/portfolio-ufpi/).
+
+**[Checklist de lotes OBMEP](https://github.com/Gabrielribeiropy/OBMEP-Checklist-Slots)** — projeto independente e não oficial que organiza as etapas de processamento de lotes em um painel. Reúne confirmações em sequência, filtros e histórico. [Experimentar a demonstração com dados fictícios](https://gabrielribeiropy.github.io/OBMEP-Checklist-Slots/demo/). O código completo pode ser executado com um banco PostgreSQL próprio.
 
 ### Tecnologias
 
@@ -34,9 +36,11 @@ I build digital products from interface to deployment. My work spans responsive 
 
 ### Featured projects
 
-**[CCN Digital — public showcase](https://github.com/Gabrielribeiropy/ccn-digital-showcase)** — an independent demonstration with fictional data, built to show the interface and content organization without access to the real system. [Try the demo](https://gabrielribeiropy.github.io/ccn-digital-showcase/). The institutional migration project remains separate; other CCN projects are under revision.
+**[CCN Digital — public showcase](https://github.com/Gabrielribeiropy/ccn-digital-showcase)** — an independent demonstration with fictional data, built to show the interface and content organization without access to the real system. [Try the demo](https://gabrielribeiropy.github.io/ccn-digital-showcase/). The institutional migration project remains separate.
 
-**[OBMEP Lot Checklist](https://github.com/Gabrielribeiropy/OBMEP-Checklist-Slots)** — an independent, unofficial project that tracks lot processing steps in one dashboard. It brings together ordered confirmations, filters and an activity history. The source can be run with your own PostgreSQL database; a public demo has not been validated.
+**[UFPI Digital — demonstration projects](https://github.com/Gabrielribeiropy/portfolio-ufpi)** — an independent portfolio of three CCN experiences, including the current web build of the CCN Mobile app. [Explore the projects](https://gabrielribeiropy.github.io/portfolio-ufpi/).
+
+**[OBMEP Lot Checklist](https://github.com/Gabrielribeiropy/OBMEP-Checklist-Slots)** — an independent, unofficial project that tracks lot processing steps in one dashboard. It brings together ordered confirmations, filters and an activity history. [Try the demo with fictional data](https://gabrielribeiropy.github.io/OBMEP-Checklist-Slots/demo/). The full source can be run with your own PostgreSQL database.
 
 ### Technology
 
