@@ -10,7 +10,7 @@ Desenvolvo produtos digitais da interface à publicação. Trabalho com aplicaç
 
 ### Projetos em destaque
 
-**[CCN Digital](https://github.com/Gabrielribeiropy/CCN-Digital-Migracao-UFPI)** — projeto para organizar conteúdos e serviços do CCN. Trabalho no painel e na API que estão sendo preparados para migração institucional. Os outros projetos do CCN permanecem em revisão.
+**[CCN Digital — vitrine pública](https://github.com/Gabrielribeiropy/ccn-digital-showcase)** — demonstração independente com dados fictícios, criada para mostrar a interface e a organização de conteúdo sem acesso ao sistema real. [Experimentar a demonstração](https://gabrielribeiropy.github.io/ccn-digital-showcase/). O projeto de migração institucional continua separado; os outros projetos do CCN permanecem em revisão.
 
 **[Checklist de lotes OBMEP](https://github.com/Gabrielribeiropy/OBMEP-Checklist-Slots)** — projeto independente e não oficial que organiza as etapas de processamento de lotes em um painel. Reúne confirmações em sequência, filtros e histórico. O código pode ser executado com um banco PostgreSQL próprio; não há demonstração pública validada.
 
@@ -34,7 +34,7 @@ I build digital products from interface to deployment. My work spans responsive 
 
 ### Featured projects
 
-**[CCN Digital](https://github.com/Gabrielribeiropy/CCN-Digital-Migracao-UFPI)** — a project that organizes CCN content and services. I work on the administration panel and API being prepared for an institutional migration. Other CCN projects remain under revision.
+**[CCN Digital — public showcase](https://github.com/Gabrielribeiropy/ccn-digital-showcase)** — an independent demonstration with fictional data, built to show the interface and content organization without access to the real system. [Try the demo](https://gabrielribeiropy.github.io/ccn-digital-showcase/). The institutional migration project remains separate; other CCN projects are under revision.
 
 **[OBMEP Lot Checklist](https://github.com/Gabrielribeiropy/OBMEP-Checklist-Slots)** — an independent, unofficial project that tracks lot processing steps in one dashboard. It brings together ordered confirmations, filters and an activity history. The source can be run with your own PostgreSQL database; a public demo has not been validated.
 
