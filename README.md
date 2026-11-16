@@ -8,13 +8,11 @@
 
 Desenvolvo produtos digitais da interface à publicação. Trabalho com aplicações web responsivas, experiências mobile, APIs e ferramentas para operação. Atuo de forma independente pela **Averotech** e busco oportunidades de desenvolvimento com equipes no Brasil e em outros países.
 
-### Projeto em destaque
+### Projetos em destaque
 
-**[CCN Digital — painel administrativo e API](https://github.com/Gabrielribeiropy/CCN-Digital-Migracao-UFPI)**
+**[CCN Digital](https://github.com/Gabrielribeiropy/CCN-Digital-Migracao-UFPI)** — projeto para organizar conteúdos e serviços do CCN. Trabalho no painel e na API que estão sendo preparados para migração institucional. Os outros projetos do CCN permanecem em revisão.
 
-Backend em Node.js e painel web preparados para migração a um servidor Debian. O repositório inclui esquema PostgreSQL, modelos de implantação, documentação operacional e testes automatizados. Este é o projeto do CCN que apresento atualmente; os demais estão em revisão.
-
-**Para conhecer o projeto:** [arquitetura e segurança](https://github.com/Gabrielribeiropy/CCN-Digital-Migracao-UFPI/blob/main/docs/ARQUITETURA-E-SEGURANCA.md) · [guia de implantação](https://github.com/Gabrielribeiropy/CCN-Digital-Migracao-UFPI/tree/main/deploy/debian) · [código](https://github.com/Gabrielribeiropy/CCN-Digital-Migracao-UFPI)
+**[Checklist de lotes OBMEP](https://github.com/Gabrielribeiropy/OBMEP-Checklist-Slots)** — projeto independente e não oficial que organiza as etapas de processamento de lotes em um painel. Reúne confirmações em sequência, filtros e histórico. O código pode ser executado com um banco PostgreSQL próprio; não há demonstração pública validada.
 
 ### Tecnologias
 
@@ -34,13 +32,11 @@ Valorizo interfaces claras, código fácil de manter, documentação útil e um 
 
 I build digital products from interface to deployment. My work spans responsive web applications, mobile experiences, APIs and operational tools. I work independently through **Averotech** and am interested in software development opportunities with teams in Brazil and abroad.
 
-### Featured project
+### Featured projects
 
-**[CCN Digital — administration panel and API](https://github.com/Gabrielribeiropy/CCN-Digital-Migracao-UFPI)**
+**[CCN Digital](https://github.com/Gabrielribeiropy/CCN-Digital-Migracao-UFPI)** — a project that organizes CCN content and services. I work on the administration panel and API being prepared for an institutional migration. Other CCN projects remain under revision.
 
-A Node.js backend and browser based administration panel prepared for migration to a Debian server. The repository includes a PostgreSQL schema, deployment templates, operational documentation and automated tests. This is the CCN codebase I currently present; the other CCN projects are under revision.
-
-**Explore:** [architecture and security](https://github.com/Gabrielribeiropy/CCN-Digital-Migracao-UFPI/blob/main/docs/ARQUITETURA-E-SEGURANCA.md) · [deployment guide](https://github.com/Gabrielribeiropy/CCN-Digital-Migracao-UFPI/tree/main/deploy/debian) · [source code](https://github.com/Gabrielribeiropy/CCN-Digital-Migracao-UFPI)
+**[OBMEP Lot Checklist](https://github.com/Gabrielribeiropy/OBMEP-Checklist-Slots)** — an independent, unofficial project that tracks lot processing steps in one dashboard. It brings together ordered confirmations, filters and an activity history. The source can be run with your own PostgreSQL database; a public demo has not been validated.
 
 ### Technology
 
